@@ -1,18 +1,44 @@
-### Hello there! 👋, I am Ojo Abisola
+<h1 align="center">Hi 👋, I'm Ojo Abisola</h1>
+<h3 align="center">I am a frontend developer from Nigeria.</h3>
+<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F4aa77ea32aa4d7be626e833b160f3d8923c133cd32c34fefbdc43c8abfcff710%2F68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966&tbnid=tkD88475CNPNmM&vet=12ahUKEwjd7Pa_5ZWAAxUSmicCHet8AI8QMygNegUIARCdAg..i&imgrefurl=https%3A%2F%2Fgithub.com%2FPriya-shan&docid=SR8iflvEbBZdsM&w=800&h=600&q=girly%20coding%20gifs&ved=2ahUKEwjd7Pa_5ZWAAxUSmicCHet8AI8QMygNegUIARCdAg"/>
 
-### <div>
-<button><a href="https://www.linkedin.com/in/abisola-ojo-">LinkedIn</a></button>
-<a href="https://www.instagram.com/bojodiva/">Instagram</a>
-<a href=""><button style=" background: #1696b1; font-size: 14px; border-radius: 5px; color:white;">Twitter</button></a>
-<a href="https://dribbble.com/bojodiva"><button style=" background:#d60ca4 ; font-size: 14px; border-radius: 5px; color:white;">Dribble</button></a>
-</div>
+<p align="left"> <a href="https://twitter.com/b_ojo_" target="blank"><img src="https://img.shields.io/twitter/follow/b_ojo_?logo=twitter&style=for-the-badge" alt="b_ojo_" /></a> </p>
+
+- 🌱 I’m currently learning **react, vue**
+
+- 👨‍💻 All of my projects are available at [https://github.com/bojodiva](https://github.com/bojodiva)
+
+- 📝 I regularly write articles on [https://medium.com/@ojoabisola387](https://medium.com/@ojoabisola387)
+
+- 📫 How to reach me **ojoabisola387@gmail.com**
+
+- ⚡ Fun fact **I am friendly**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/b_ojo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="b_ojo_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abisola-ojo-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abisola-ojo-/" height="30" width="40" /></a>
+<a href="https://instagram.com/bojodiva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bojodiva" height="30" width="40" /></a>
+<a href="https://medium.com/@ojoabisola387" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ojoabisola387" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bojodiva&show_icons=true&locale=en&layout=compact" alt="bojodiva" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bojodiva&show_icons=true&locale=en" alt="bojodiva" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bojodiva&" alt="bojodiva" /></p>
 
 
+<!--
 - 🔭 I’m currently working on bulding React projects.
 - 🌱 I’m currently learning Vue.js.
 - 👯 I’m looking to collaborate on front-end open source projects.
 - 📫 How to reach me:  https://twitter.com/b_ojo_/
 - ⚡ Fun fact: I am  creative
+-->
 
 
 
