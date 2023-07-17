@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ojo Abisola</h1>
 <h3 align="center">I am a frontend developer from Nigeria.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F4aa77ea32aa4d7be626e833b160f3d8923c133cd32c34fefbdc43c8abfcff710%2F68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966&tbnid=tkD88475CNPNmM&vet=12ahUKEwjd7Pa_5ZWAAxUSmicCHet8AI8QMygNegUIARCdAg..i&imgrefurl=https%3A%2F%2Fgithub.com%2FPriya-shan&docid=SR8iflvEbBZdsM&w=800&h=600&q=girly%20coding%20gifs&ved=2ahUKEwjd7Pa_5ZWAAxUSmicCHet8AI8QMygNegUIARCdAg"/>
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 <p align="left"> <a href="https://twitter.com/b_ojo_" target="blank"><img src="https://img.shields.io/twitter/follow/b_ojo_?logo=twitter&style=for-the-badge" alt="b_ojo_" /></a> </p>
 
