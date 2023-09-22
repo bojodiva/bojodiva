@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/bojodiva](https://github.com/bojodiva)
 
-- 📝 I regularly write articles on [https://medium.com/@ojoabisola387](https://medium.com/@ojoabisola387)
+- 📝 I seldomly write articles on [https://medium.com/@ojoabisola387](https://medium.com/@ojoabisola387)
 
 - 📫 How to reach me **ojoabisola387@gmail.com**
 
