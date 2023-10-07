@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/b_ojo_" target="blank"><img src="https://img.shields.io/twitter/follow/b_ojo_?logo=twitter&style=for-the-badge" alt="b_ojo_" /></a> </p>
 
-- 🌱 I’m currently learning **react, vue**
+- 🌱 I’m currently learning **next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bojodiva](https://github.com/bojodiva)
 
